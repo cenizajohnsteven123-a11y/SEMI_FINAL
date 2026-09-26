@@ -15,7 +15,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-## About MySQL
+
+
 MySQL means My Structured Query Language.It is a database management system used to store and organize data.
 In Laravel, MySQL can store information like tasks, users, descriptions, and due dates.
 
