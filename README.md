@@ -59,6 +59,7 @@ This project demonstrates the basic Laravel flow:
 'composer install'
 
 4.Configure the .env file with the MySQL database.
+
 5.Run:
 
 'php artisan migrate'
