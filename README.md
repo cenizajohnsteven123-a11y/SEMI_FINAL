@@ -51,7 +51,9 @@ This project demonstrates the basic Laravel flow:
 * **Blade:** Displays the task management pages.
 ## How to Run
 1.Start Apache and MySQL using XAMPP.
+
 2.Open the project folder in Command Prompt.
+
 3.Run:
 
 'composer install'
