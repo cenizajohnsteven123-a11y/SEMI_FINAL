@@ -16,11 +16,12 @@ View Tasks
 
 
 Edit Task
-<img width="356" height="130" alt="image" src="https://github.com/user-attachments/assets/27257b81-6ade-47d8-b665-a2b5285e7345" />
+<img width="111" height="68" alt="image" src="https://github.com/user-attachments/assets/fcc6426a-8a0e-4abe-ac0b-a84d7e6f0218" />
+
 
 
 Delete Task
-<img width="356" height="130" alt="image" src="https://github.com/user-attachments/assets/e8389008-586a-4330-adc7-254d42761942" />
+<img width="111" height="62" alt="image" src="https://github.com/user-attachments/assets/bb55822b-df63-4532-83e0-a4ed122bf769" />
 
 
 Update Task Status
