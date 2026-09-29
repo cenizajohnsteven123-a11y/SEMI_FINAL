@@ -6,14 +6,22 @@ A simple Personal Task Manager built using Laravel and MySQL.
 Project Code: WST21-PM-2026-SF Student Name: JOHN STEVEN A. CENIZA & Year: [BSIT 2nd year] Database Used: MySQL
 
 ## Features
+
 Add Task
+
 View Tasks
+
 Edit Task
+
 Delete Task
+
 Update Task Status
+
 Set Due Date
+
 Store tasks in a MySQL database
 
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/6ce5faca-f561-4b64-90f8-da11d4e1c5d5" />
 <img width="1426" height="107" alt="image" src="https://github.com/user-attachments/assets/d8747ed1-f456-452a-a6e8-cce58ee03f4e" />
 <img width="1492" height="217" alt="image" src="https://github.com/user-attachments/assets/5541219b-9d6e-4485-9414-e14928253d9b" />
 <img width="111" height="68" alt="image" src="https://github.com/user-attachments/assets/fcc6426a-8a0e-4abe-ac0b-a84d7e6f0218" />
