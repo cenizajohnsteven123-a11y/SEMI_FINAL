@@ -2,8 +2,21 @@
 # Personal Task Manager
 A simple Personal Task Manager built using Laravel and MySQL.
 
-## Project Information
-Project Code: WST21-PM-2026-SF Student Name: JOHN STEVEN A. CENIZA & Year: [BSIT 2nd year] Database Used: MySQL
+## Project code
+
+Project Code: WST21-PM-2026-SF
+
+## Student Name
+
+Student Name: JOHN STEVEN A. CENIZA 
+
+## Course & Year
+
+Course & Year: [BSIT 2nd year] 
+
+## Database Used
+
+Database Used: MySQL
 
 ## Features
 
